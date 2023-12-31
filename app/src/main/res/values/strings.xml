@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DucatiMotoType</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_price">%d Dollar</string>
+    <string name="total_order">Price Total : %d Dollar</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="back">Back</string>
+    <string name="plus_symbol">＋</string>
+    <string name="minus_symbol">-</string>
+    <string name="share_message">Hey, I have buy %1$d new type of Ducati Moto Brand with total %2$d Dollar. Do you want too?</string>
+    <string name="ducati_reward">Ducati Moto Type</string>
+    <string name="search_type">Search Ducati Moto Type</string>
+    <string name="no_type_found">No type found</string>
+    <string name="empty_cart">Cart Empty</string>
+    <string name="color">Color: %1$s</string>
+    <string name="skin_picture">Skin Picture</string>
+    <string name="name">Firhan Ali Sofi</string>
+    <string name="email">21081010326@student.upnjatim.ac.id</string>
+    <string name="my_photo">My Photo</string>
+</resources>
